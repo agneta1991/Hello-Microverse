@@ -166,3 +166,8 @@ This is the first and very basic project.
 I would like to thank Microverse team for providing me with clear instructions on how I should do this project. A big thanks to code reviewer who provided me with indepth instructions on my mistakes.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
